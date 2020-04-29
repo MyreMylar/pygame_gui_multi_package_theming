@@ -1,0 +1,32 @@
+{
+    "#1":
+    {
+        "images":
+        {
+            "normal_image": {
+                "package": "package_one.images",
+                "resource": "space_1.jpg"
+            }
+        }
+    },
+    "#2":
+    {
+        "images":
+        {
+            "normal_image": {
+                "package": "package_one.images",
+                "resource": "space_2.jpg"
+            }
+        }
+    },
+    "#3":
+    {
+        "images":
+        {
+            "normal_image": {
+                "package": "package_one.images",
+                "resource": "space_3.jpg"
+            }
+        }
+    }
+}
